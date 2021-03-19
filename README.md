@@ -25,3 +25,7 @@ Task 5
 Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 ● As a sports analysts, find out the most successful teams, players and factors
 contributing win or loss of a team.
+
+
+Task 6
+Create the Decision Tree classifier and visualize it graphically.
